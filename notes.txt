@@ -3,3 +3,6 @@ https://migrationdevops.usgovvirginia.cloudapp.usgovcloudapi.net/GCSS/
 Artifactory = ltsartifactory.usgovvirginia.cloudapp.usgovcloudapi.net
 TFS = https://ltstfs.usgovvirginia.cloudapp.usgovcloudapi.net
 Guacamole = ltsguacamole.usgovvirginia.cloudapp.usgovcloudapi.net:8080/guacamole/#/
+
+https://portal.azure.us/ 
+suja.kuttappy@leidosmigrate.onmicrosoft.com/3@Leidos
