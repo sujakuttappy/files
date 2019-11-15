@@ -6,3 +6,11 @@ Guacamole = ltsguacamole.usgovvirginia.cloudapp.usgovcloudapi.net:8080/guacamole
 
 https://portal.azure.us/ 
 suja.kuttappy@leidosmigrate.onmicrosoft.com/3@Leidos
+
+
+PS C:\> mkdir agent ; cd agent
+PS C:\agent> Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win-x64-2.144.2.zip", "$PWD")
+
+PS C:\agent> .\config.cmd
+
+PS C:\agent> .\run.cmd
