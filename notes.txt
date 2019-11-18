@@ -18,3 +18,5 @@ PS C:\agent> .\run.cmd
 mfkcqmvrvut4o5muhlmdf6mvbmltnrzhzghc6b2avcwyhetbw45a
 
 selenium-side-runner -c "browserName='internet explorer'" testsample.side
+
+C:\Users\kuttappys\Documents\selenium
