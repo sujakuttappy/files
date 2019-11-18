@@ -22,3 +22,5 @@ selenium-side-runner -c "browserName='internet explorer'" testsample.side
 C:\Users\kuttappys\Documents\selenium
 
 C:\Program Files\nodejs
+
+C:\windowsagent\_work\2\s\script
