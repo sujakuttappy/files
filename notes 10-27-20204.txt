@@ -1,0 +1,20 @@
+The Director of Cloud Security Engineering is responsible for overseeing the security of all cloud-based systems and data within an organization. This role involves developing and implementing security policies, managing a team of security professionals, and ensuring compliance with industry standards and regulations. The Director of Cloud Security Engineer will assist with the design, deployment, and operationalization of Azure, AWS, and GCP security posture of UnitedHealth Group, with a focus on enabling effective and efficient incident response. This role will be a primary contributor to the Cloud Alignment Team that governs enterprise-wide cloud security strategy, including IaaS, PaaS, and SaaS. The position will be part of the Cloud Security Engineering Team within the Enterprise Information Security group. 
+
+ 
+
+You’ll enjoy the flexibility to work remotely * from anywhere within the U.S. as you take on some tough challenges.
+
+ 
+
+Primary Responsibilities:
+
+Develop and implement comprehensive cloud security strategies and policies
+Lead and mentor a team of cloud security engineers
+Conduct validation and assurance of security standards and configurations
+Collaborate with IT and other lines of business to ensure security measures align with business objectives
+Design and deploy secure cloud architectures and solutions
+Collaborate with IT, DevOps, and other departments to integrate security into all stages of the cloud development lifecycle
+Stay updated on the latest security threats and trends to proactively address potential risks
+Ensure compliance with relevant regulations and standards (e.g., GDPR, HIPAA)
+Manage incident response and recovery processes in the event of a security breach
+Provide training and guidance to staff on cloud security best practices
